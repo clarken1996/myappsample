@@ -1,2 +1,2 @@
-#Git & GitHu Crash Course
+#Git-GitHub
 This is a crash course by Traversy Media
